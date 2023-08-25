@@ -1,3 +1,0 @@
-C:/Users/jjami/CLionProjects/tarefa1_prg2/cmake-build-debug/CMakeFiles/untitled11.dir
-C:/Users/jjami/CLionProjects/tarefa1_prg2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/jjami/CLionProjects/tarefa1_prg2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
