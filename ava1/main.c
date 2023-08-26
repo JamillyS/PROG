@@ -40,7 +40,7 @@ int bucar_usu(struct usuario *usuarios, char *login, char *senha) {
 }
 //imprimi boas vindas ao usuario
 void hello(struct usuario *usuario) {
-    printf("Ola, %s! Seja bem vindo.\n", usuario->nome);
+    printf("Ola, %s!Seja bem vindo.\n", usuario->nome);
 }
 
 int main(int argc, char **argv) {
