@@ -71,10 +71,10 @@ int main() {
         return 1;
     }
 
-    int tamanhoMaximo = 1000000000; // Defina o tamanho máximo do vetor
+    int tamanhoMaximo = 1000000000; 
     int *vetor = (int *)malloc(tamanhoMaximo * sizeof(int));
-    int n = 0; // Tamanho real do vetor
-    char linha[100]; // Tamanho máximo de uma linha no arquivo
+    int n = 0; 
+    char linha[100]; 
 
     if (vetor == NULL) {
         perror("Erro ao alocar memória para o vetor");
