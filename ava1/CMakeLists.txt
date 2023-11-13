@@ -3,4 +3,4 @@ project(ava1 C)
 
 set(CMAKE_C_STANDARD 99)
 
-add_executable(ava1 main.c processamento.c)
+add_executable(ava1 main.c processamento.h)

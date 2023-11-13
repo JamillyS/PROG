@@ -1,8 +1,8 @@
-#include "processamento.c"
+#include "processamento.h"
 #include <stdio.h>
 #include <sys/time.h>
 #include <time.h>
-
+#include <string.h>
 //função que vai ler e separar os dados de login, senha e nome de cada usuario
 void separa_usu(FILE *arquivo, struct usuario *usuario) {
     //separo os login
